@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCodeCamp", "MyCodeCamp\MyCodeCamp.csproj", "{B3F85233-2691-4A30-9788-74D42572BFF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCodeCamp.Data", "MyCodeCamp.Data\MyCodeCamp.Data.csproj", "{F6052B35-5ACB-4A32-92F2-0546AEDCC4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F85233-2691-4A30-9788-74D42572BFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F85233-2691-4A30-9788-74D42572BFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F85233-2691-4A30-9788-74D42572BFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F85233-2691-4A30-9788-74D42572BFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6052B35-5ACB-4A32-92F2-0546AEDCC4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6052B35-5ACB-4A32-92F2-0546AEDCC4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6052B35-5ACB-4A32-92F2-0546AEDCC4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6052B35-5ACB-4A32-92F2-0546AEDCC4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5383C1B-C050-49DF-B2FD-6CBCF0E997E4}
+	EndGlobalSection
+EndGlobal
